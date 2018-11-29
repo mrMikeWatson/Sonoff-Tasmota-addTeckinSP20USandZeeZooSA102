@@ -1,6 +1,6 @@
 /*
   sonoff_template.h - template settings for Sonoff-Tasmota
-
+ 
   Copyright (C) 2018  Theo Arends
 
   This program is free software: you can redistribute it and/or modify
